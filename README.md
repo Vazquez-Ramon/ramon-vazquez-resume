@@ -14,7 +14,7 @@ This repository contains the most up-to-date version of my professional resume.
 
 ## Education
 - Associate of Applied Science (AAS) – IT Web & Software Development
-- Bachelor of Science – Software Engineering (In Progress), WGU
+- Master of Science (MS) – Software Engineering (In Progress), WGU
 
 ## Contact
 - Email: rvazqu21@wgu.edu
